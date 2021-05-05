@@ -1,0 +1,7 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "output_storage_url": "DefaultEndpointsProtocol=https;AccountName=gtinpharmdteam3storage;AccountKey=K8nLVbEwRFkJVuR5fWJkp2ppoyDrUJqlN3mrAqyCQajdD1PbcOweTJIOW4DeITe6cOqFVnxkYuvCug7fsbMDjg==;EndpointSuffix=core.windows.net"
+  }
+}
